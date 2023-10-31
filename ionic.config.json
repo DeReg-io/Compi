@@ -1,0 +1,7 @@
+{
+  "name": "compi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
